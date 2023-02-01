@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(58, 27, 213);
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 162, 0);
+}
+
+.destacado{
+    color: rgb(183, 255, 0);
+}
+
+
+#destacado p{
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+
+
